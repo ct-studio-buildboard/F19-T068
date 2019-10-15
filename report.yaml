@@ -1,6 +1,6 @@
 company:
   name: 68/sEnergy
-  logo: ey.png
+  logo: images/ey.png
 product_hmw: How might we leverage federal and state offered energy credits to incent consumers to better conserve energy?
 product_narrative: |
   Government has been offering tax credits and rebates to encourage energy savings.
@@ -11,23 +11,23 @@ team:
   roster:
   - name: Jay Lee
     email: jl3659@cornell.edu
-    picture: JayLee_MBA_jl3659.png
+    picture: images/JayLee_MBA_jl3659.png
     program: MBA
   - name: Harry Li
     email: jl3949@cornell.edu
-    picture:
+    picture: images/Harry_Jiahao_Li_ORIE_jl3949.JPG
     program: ORIE
   - name: Adam Levin
     email: awl92@cornell.edu
-    picture:
+    picture: images/Adam_Levin.jpeg
     program: CS
   - name: Nilay Altun
     email: na523@cornell.edu
-    picture: NilayAltun_CS_na523.jpg
+    picture: images/NilayAltun_CS_na523.jpg
     program: CS
   - name: Ami Mehta
     email: adm272@cornell.edu
-    picture:
+    picture: images/
     program: AAP
 assets:
 - title: Sprint 1

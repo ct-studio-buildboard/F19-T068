@@ -7,7 +7,7 @@ product_narrative: |
   However, such policies are limited in reach, and their effectiveness is difficult to measure.
   How might we then empower regular consumers to adopt sustainable behavioral change in energy consumption?
 team:
-  picture:
+  picture: images/teamphoto.jpg
   roster:
   - name: Jay Lee
     email: jl3659@cornell.edu
@@ -27,7 +27,7 @@ team:
     program: CS
   - name: Ami Mehta
     email: adm272@cornell.edu
-    picture: images/
+    picture: images/Ami_Mehta_headshot.jpeg
     program: AAP
 assets:
 - title: Sprint 1
